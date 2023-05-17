@@ -1,4 +1,4 @@
-# Taller6-Java
+# Taller 6 - Java Web (Repository Pattern)
 # JAVA_AVANZADO
 ***
 Proyecto diseñado y creado especialmente para la elaboracion de trabajos y actividades realizadas en clase.
