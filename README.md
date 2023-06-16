@@ -22,6 +22,8 @@ Proyecto diseñado y creado especialmente para la elaboracion de trabajos y acti
 #### Index
 ***
 * En principio utilizamos la etiqueta <!DOCTYPE html> para dejar en claro que el arcrivo a continuacion es un tipo documento, y nos permite identificar en el navegador que tipo de html es. 'html lang="es"' Con ella especificamos el leguaje de nuestra interfaz, a continuación sigue nuestra estructura HTML, dentro de la etiqueta 'head' colocamos las etiquetas: <meta charset> esta nos aytudará a aceptar todo tipo de caracteres especiales, el siguiente 'meta' nos brinda la opción y caraterística de que nuestra interfaz sea responsive. 'title' esta eqieuta le dara el título a nuestra ventana de navegación,  y por último colocamos un 'link' el cual nos da la conexióon y nos permite acceder a las bibliotecas de BOOSTRAP.
+
+![image](https://github.com/DayanaVarg/Taller4_5_JavaWeb/assets/128272265/2472f30b-c473-4918-9da0-b4bfc84239ec)
   
 * Dentro de la etiqueta <body> colocamos:
 'div class="container"' este será nuestro contenedor principal, dentro de esta etiqueta se encuentra 'header' '/header' es la cabecera principal de nuestra interfaz, 'nav' '/nav' es la barra de navegación de nuestra interfaz. Dentro de la etiqueta 'section' va el contenido principal de nuestra página en este caso en primer lugar tenemos un "h1" con el título del formulario, luego abrimos la etiqueta 'form' la que contiene un action="" (acción que hará con la información) y un method="" (es el método por el cual enviará los datos). Dentro del form abriremos todas los 'label' con las caraterísticas necesarias, y los 'input' cada uno con su tipo, id, nombre, la cualidad de es requerido y su pattern si es necesario, y seguido de esto tendremos el <bottom> tipo submit y el nombre que deseamos. Una vez cerrada la etiqueta del form, y del section, tenemos la etiqueta 'script' con el link que permite acceder a las bibliotecas de javaScript alojadas en Boostrap. Se cierra el '/body', y se agrega la etiqueta del 'footer''/footer'' (pie de página de la interfaz), y cerramos las etiquetas faltantes.
@@ -30,10 +32,13 @@ Proyecto diseñado y creado especialmente para la elaboracion de trabajos y acti
 ***
 * Cuenta con las mismas etiquetas del Index, pero especialmente funciona para el logeado de una usuario, además de ser acompañado por la opción de resgistrarse en caso tal de no tener un usuario.
 
+![image](https://github.com/DayanaVarg/Taller4_5_JavaWeb/assets/128272265/b551b1e7-9d0a-44c4-9de8-4a8135e803a0)
 
 #### Formulario de registro
 ***
 * Cuenta con las mismas etiquetas del Index, salvo que contiene más 'input' y 'label' debido a que son más campos de registro. Especialmente funciona para el registro de una usuario nuevo, solicitando datos como: Nombre, Apellido, Correo y Contraseña.
+
+![image](https://github.com/DayanaVarg/Taller4_5_JavaWeb/assets/128272265/2472f30b-c473-4918-9da0-b4bfc84239ec)
 
 #### BasicConnection
 ***
